@@ -28,10 +28,10 @@ jupyter notebook notebooks/attention.ipynb
 ## Download Pre-trained Model
 
 You can download the pre-trained model (~218 MB) from:
+[Google Drive link](https://drive.google.com/file/d/1NSEOnLpVyAAKFDTYcMOjRVut4TOdGHO2/view?usp=sharing)
 
 ## License
 This project is licensed under the MIT License.
-[Google Drive link](https://drive.google.com/file/d/1NSEOnLpVyAAKFDTYcMOjRVut4TOdGHO2/view?usp=sharing)
 
 ## Citation
 If you use this code, please cite:
