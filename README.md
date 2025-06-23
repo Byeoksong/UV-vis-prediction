@@ -2,7 +2,7 @@
 
 This repository contains code used in the study:
 
-**"Mapping reaction pathways in colloidal nanocrystal synthesis via topological manifold learning of UV-vis spectroscopic data"**
+**"Topological machine learning unveils hidden reaction pathways in nanocrystal synthesis"**
 
 ## Repository Structure
 - `notebooks/UV-vis_prediction.ipynb`: Jupyter notebook for training and evaluation
