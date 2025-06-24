@@ -1,8 +1,8 @@
 # Transformer based UV-vis spectra prediction model
 
-This repository contains code used in the study:
+This repository contains code for a study currently under preparation on transformer-based modeling of UV-vis spectra and reaction pathway analysis in nanocrystal synthesis.
 
-**"Topological machine learning unveils hidden reaction pathways in nanocrystal synthesis"**
+Detailed information about the model architecture and input data format will be provided upon publication of the associated paper.
 
 ## Repository Structure
 - `notebooks/UV-vis_prediction.ipynb`: Jupyter notebook for training and evaluation
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ##  Usage
 Open the notebook with:
 ```bash
-jupyter notebook notebooks/attention.ipynb
+jupyter notebook notebooks/UV-vis_prediction.ipynb
 ```
 
 ## Download Pre-trained Model
@@ -34,5 +34,5 @@ You can download the pre-trained model (~218 MB) from:
 This project is licensed under the MIT License.
 
 ## Citation
-If you use this code, please cite:
+This work is currently under preparation. Citation information will be updated upon publication
 
