@@ -25,10 +25,10 @@ Open the notebook with:
 jupyter notebook notebooks/UV-vis_prediction.ipynb
 ```
 
-## Download Pre-trained Model
+## Download Model parameters
 
-You can download the pre-trained model (~218 MB) from:
-[Google Drive link](https://drive.google.com/file/d/1NSEOnLpVyAAKFDTYcMOjRVut4TOdGHO2/view?usp=sharing)
+You can download the model parameters used for generate the predictions in our paper from the following link (~218 MB):
+[Google Drive link](https://drive.google.com/file/d/1NSEOnLpVyAAKFDTYcMOjRVut4TOdGHO2/view?usp=sharing) 
 
 ## License
 This project is licensed under the MIT License.
