@@ -98,6 +98,8 @@ pytest
 You can download the pre-trained model parameters from the following link (~218 MB):
 [Google Drive link](https://drive.google.com/file/d/1NSEOnLpVyAAKFDTYcMOjRVut4TOdGHO2/view?usp=sharing)
 
+**Important:** After downloading, please place the `UVvis_attention_model.keras` file directly into the root directory of this project (e.g., `./UVvis_attention_model.keras`). This file is required for the prediction functionality.
+
 ## License
 
 This project is licensed under the MIT License.
