@@ -1,0 +1,13 @@
+{
+    "dockerFile": "./Dockerfile",
+    "name": "UV-vis Prediction",
+    "extensions": [
+        "ms-python.python"
+    ],
+    "containerEnv": {
+        "NVIDIA_VISIBLE_DEVICES": "all"
+    },
+    "runArgs": [
+        "--runtime=nvidia"
+    ]
+}

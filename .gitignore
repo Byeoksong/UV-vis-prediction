@@ -1,1 +1,36 @@
 *.keras
+readme_ai_agent.md
+
+# Dev Container specific
+.devcontainer/.vscode/
+.devcontainer/.history/
+.devcontainer/tmp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Sensitive information (if applicable)
+.env
+*.env
+*.pem
+*.key
